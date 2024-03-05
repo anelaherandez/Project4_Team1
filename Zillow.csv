@@ -1,4 +1,4 @@
-,Zipcode,Zillow_value,State,City,Street,Bedroom,Bathroom,Area,PPSq,LotArea,Latitude,Longitude,ListedPrice
+,Zipcode,Zillow_value_per_Zip,State,City,Street,Bedroom,Bathroom,Area,PPSq,LotArea,Latitude,Longitude,ListedPrice
 0,85006,418856.7727,AZ,Phoenix,N Dayton St,2,2.0,1855,256.06469,0.145087236,33.071648,-111.454926,475000
 1,85007,414950.5322,AZ,Phoenix,W Lynwood St,2,3.0,2423,531.9851424,0.98,34.590916,-112.44415,1289000
 2,85009,285493.7243,AZ,Phoenix,W Virginia Ave,4,2.0,1706,199.2960141,0.28,32.194954,-110.87046,339999
