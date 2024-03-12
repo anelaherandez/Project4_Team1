@@ -19,5 +19,8 @@ On this notebook we broke the data into Bedroom sizes categories to be able to i
 To illustrate the DataFrame with an ascending filter the .sort_values function was used along with inplace and ascending functions. 
 Once all the data was broken into categories in each of the cities and the state of Arizona. MatPlotLib was used to make Bar visualizations to show 
 1.	Highest Bedroom size by each City (Phoenix, Tucson, Prescott, Scottsdale) 
-2.	Use all cities data to compare all four cities
+2.	Use all cities data to compare all four cities for 2 to 4 Bedrooms
+   ![image](https://github.com/anelaherandez/Project4_Team1/assets/144754677/f057ca60-1062-4b50-a99c-48a69fdf2320)
+
 3.	Highest Bedroom city for the whole State for bedroom size 1 to 6
+![image](https://github.com/anelaherandez/Project4_Team1/assets/144754677/32eb832a-4791-4c4b-a7d5-ff6edf000ae3)
