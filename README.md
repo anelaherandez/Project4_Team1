@@ -15,6 +15,7 @@ For the modeling.ipynb file, various Ordinary Least Squares Models were run to s
         The random forrest model ended with a 0.997 R-squared score. This model was adapted using the following documentation: https://www.geeksforgeeks.org/random-forest-regression-in-python/
 
 Matplotlib notebook 
+
 On this notebook we broke the data into Bedroom sizes categories to be able to illustrate the range in Listed Price. We got the highest valued by category using .iloc function. 
 To illustrate the DataFrame with an ascending filter the .sort_values function was used along with inplace and ascending functions. 
 Once all the data was broken into categories in each of the cities and the state of Arizona. MatPlotLib was used to make Bar visualizations to show 
