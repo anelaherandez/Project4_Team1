@@ -1,6 +1,8 @@
 # Project4_Team1--Arizona Real Estate Pricing Predictive Modeling 
 Team Members: Necole Barnes, Ryan Dekker, Andrea Hernandez, Daniela Trujillo
 
+![Picture2_p4](https://github.com/anelaherandez/Project4_Team1/assets/144189200/12f27e40-7044-4168-9659-04660bcf8c08)
+
 ## Project Proposal and Outline
 In a post-Pandemic world, with ever changing market prices, the prediction of housing prices in various regions of Arizona can help guide a family in their search for a new home. For this project, we will be using US housing listings from Zillow in 2023, specifically Arizona, to understand the relationships between various housing characteristics and the listed price for a home. Our goal is create a predictive model on housing prices that will predict market price for 2024.
 Research Questions:
@@ -39,7 +41,11 @@ Once all the data was broken into categories in each of the cities and the state
 In this notebook data was retrieved from a zillow SQL database using SQLAlchemy. Once the connection to the database was exstablished, data was retrieved, read and displayed from a table. Columns with a object datatype were dropped, listing only datatypes that are int64 or float64 for visualization.
 1. Histograms was created for indiviual variables to give a better visual understanding of the data
 2. A correlation heatmap was created to identify patterns and relationships between different variables
+![heatmap_p4](https://github.com/anelaherandez/Project4_Team1/assets/144189200/e9bb961e-c142-478d-8eb7-69a83aa790b8)
+
 3. Scatterplot was created to give a visualization of a popular area of interest
+
+   
 
 - Scikit-Learn/Statsmodels
 For the modeling.ipynb file, various Ordinary Least Squares Models were run to see which independent variables best predicted the Listing value. These were run using the statsmodels package.
