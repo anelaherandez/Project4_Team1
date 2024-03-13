@@ -25,3 +25,10 @@ Once all the data was broken into categories in each of the cities and the state
 
 3.	Highest Bedroom city for the whole State for bedroom size 1 to 6
 ![image](https://github.com/anelaherandez/Project4_Team1/assets/144754677/32eb832a-4791-4c4b-a7d5-ff6edf000ae3)
+
+SQLAlchemy Notebook
+
+In this notebook data was retrieved from a zillow SQL database using SQLAlchemy. Once the connection to the database was exstablished, data was retrieved, read and displayed from a table. Columns with a object datatype were dropped, listing only datatypes that are int64 or float64 for visualization.
+1. Histograms was created for indiviual variables to give a better visual understanding of the data
+2. A correlation heatmap was created to identify patterns and relationships between different variables
+3. Scatterplot was created to give a visualization of a popular area of interest
